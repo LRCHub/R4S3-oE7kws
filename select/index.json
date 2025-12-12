@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Blizzard",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-12T10:39:41.565439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blizzard of ' 77",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/01_Blizzard_of_'_77_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blizzard Scout",
+      "artist": "Film School",
+      "has_synced": false,
+      "path": "select/02_Blizzard_Scout_Film_School.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blizzard Beasts",
+      "artist": "Immortal",
+      "has_synced": true,
+      "path": "select/03_Blizzard_Beasts_Immortal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Blizzard Is Storming",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/04_A_Blizzard_Is_Storming_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blizzard On a Broken Mirror",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/05_Blizzard_On_a_Broken_Mirror_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Black Blizzard",
+      "artist": "Die So Fluid",
+      "has_synced": false,
+      "path": "select/06_Black_Blizzard_Die_So_Fluid.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "the small of your back the nape of your neck (the blizzard)",
+      "artist": "The Paper Chase",
+      "has_synced": true,
+      "path": "select/07_the_small_of_your_back_the_nape_of_your_neck_(the_blizzard)_The_Paper_Chase.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BLIZZARD",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/08_BLIZZARD_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blizzard (Remastered 2019)",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/09_Blizzard_(Remastered_2019)_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BLIZZARD",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/10_BLIZZARD_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BLIZZARD",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/11_BLIZZARD_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Breathe In Deep - The Blizzard Remix",
+      "artist": "Armin van Buuren feat. Fiora",
+      "has_synced": true,
+      "path": "select/12_Breathe_In_Deep_-_The_Blizzard_Remix_Armin_van_Buuren_feat._Fiora.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Never Came - The Blizzard Radio Edit",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/13_Love_Never_Came_-_The_Blizzard_Radio_Edit_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Never Came (The Blizzard",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/14_Love_Never_Came_(The_Blizzard_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blizzard",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Blizzard_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
